@@ -1,0 +1,36 @@
+{
+  "name": "vue-eaasi",
+  "version": "1.0.0",
+  "description": "A Vue component for EaaSI game emulators.",
+  "main": "./dist/index.cjs.js",
+  "scripts": {
+    "dev": "vue serve ./src/EaasiGameEmulator.vue",
+    "build": "npx bili --bundle-node-modules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmilabs/vue-eaasi.git"
+  },
+  "keywords": [
+    "vue-eaasi",
+    "vue",
+    "eaasi",
+    "game",
+    "emulator"
+  ],
+  "author": "Simon Loffler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acmilabs/vue-eaasi/issues"
+  },
+  "homepage": "https://github.com/acmilabs/vue-eaasi#readme",
+  "devDependencies": {
+    "bili": "^5.0.5",
+    "rollup-plugin-vue": "^6.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
