@@ -2,7 +2,7 @@
   "name": "vue-eaasi",
   "version": "1.0.0",
   "description": "A Vue component for EaaSI game emulators.",
-  "main": "./dist/index.cjs.js",
+  "main": "./dist/index.js",
   "scripts": {
     "dev": "vue serve ./src/EaasiGameEmulator.vue",
     "build": "npx bili --bundle-node-modules",
