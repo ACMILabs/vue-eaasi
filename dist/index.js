@@ -1,5 +1,5 @@
 /*!
- * vue-eaasi v1.0.0
+ * vue-eaasi v0.0.1
  * (c) Simon Loffler
  * Released under the MIT License.
  */

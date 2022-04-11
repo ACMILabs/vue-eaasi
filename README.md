@@ -2,6 +2,8 @@
 
 A Vue component for EaaSI game emulators.
 
+**Note**: This is currently a non-functional work in progress. See current unresolved [issues](https://github.com/ACMILabs/vue-eaasi/issues).
+
 ## EaaSI
 
 The EaaSI platform is built on top of Emulation-as-a-Service (EaaS) as a product to enable scaling emulation and software preservation infrastructure.

@@ -1,6 +1,6 @@
 {
   "name": "vue-eaasi",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Vue component for EaaSI game emulators.",
   "main": "./dist/index.js",
   "scripts": {
